@@ -10,26 +10,26 @@ The **Strike** project is the dedicated platform that will host the intensive, l
 
 As instructed, the following mandatory requirements have been met:
 
-1.  **Project Goal:** Create a website/landing page UI for the "Strike" project (DSA and GenAI course making website) [2].
-2.  **Source Code:** Source code is available on the linked GitHub repository [1].
-3.  **Full Responsiveness:** The UI is designed to be **fully responsive** across all major devices (using media queries) [2].
-4.  **README File:** This documentation file is included [1].
-5.  **Deployment:** The project is deployed and accessible via a public link [1].
-6.  **Social Sharing:** The project link has been shared on LinkedIn / Twitter (Link provided below upon submission) [1].
-7.  **Creative CSS:** Custom CSS effects and subtle animations have been implemented to enhance the user experience [1].
-8.  **Logo:** A customized logo concept for "Strike" has been implemented, utilizing personal creative choices for the design [2, 3].
+1.  **Project Goal:** Create a website/landing page UI for the "Strike" project (DSA and GenAI course making website).
+2.  **Source Code:** Source code is available on the linked GitHub repository.
+3.  **Full Responsiveness:** The UI is designed to be **fully responsive** across all major devices (using media queries).
+4.  **README File:** This documentation file is included.
+5.  **Deployment:** The project is deployed and accessible via a public link.
+6.  **Social Sharing:** The project link has been shared on Twitter (Link provided below upon submission).
+7.  **Creative CSS:** Custom CSS effects and subtle animations have been implemented to enhance the user experience.
+8.  **Logo:** A customized logo concept for "Strike" has been implemented, utilizing personal creative choices for the design.
 
 ## Live Deployment Link
 
-[Insert the live deployment link here (e.g., Netlify, Vercel, or GitHub Pages)] [1]
+https://strike-html-css-webiste-redesgin-ha.vercel.app/
 
 ## Source Code Repository
 
-[Insert the GitHub Repository link here] [1]
+https://github.com/harshdhankhar10/strike-html_css_webiste_Redesgin_hackathon_2
 
 ## Social Media Share Link
 
-[Insert the LinkedIn or Twitter link where the project was shared]
+https://x.com/HarshDh18606023/status/1975440468835258605
 
 ## Technology Used
 
